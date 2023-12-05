@@ -1,0 +1,11 @@
+1 thales 123
+2 123 thales 123
+2 124 caio 123
+2 125 pedro 123
+2 126 jose 123
+3 1 13 Lula PT Federal
+3 2 22 Bolsonaro PL Federal
+3 3 40 Zema NOVO Estadual
+3 4 50 KALIL PSD Estadual
+4 Federal 2023-12-01 00:00:00 2023-12-05 23:59:00
+4 Estadual 2023-12-01 00:00:00 2023-12-05 23:59:00
